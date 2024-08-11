@@ -1,0 +1,45 @@
+.chitietnhan {
+    /* margin-right: 13px; */
+}
+
+.title-chitietnhan p{
+    font-size: 17px;
+    margin: 13px 0 0 0;
+    font-weight: 550;
+}
+
+.sprieng img{
+    margin: 18px;
+    width: 100%;
+}
+
+.content1-gia1 {
+    font-size: 18px;
+    display: flex;
+}
+
+.content1-gia1 p {
+    margin-right: 10px;
+}
+
+.content1-gia1 .saugiamgia {
+    color: #3d85c6;
+}
+
+.content1-gia1 .giamgia-tien {
+    color: black;
+}
+
+.content1-gia1 .giamgia {
+    background-color: red;
+}
+
+.size {
+    display: flex;
+}
+
+.size p {
+    margin: 0 5px 0 0;
+    font-size: 16px;
+    font-weight: 550;
+}
